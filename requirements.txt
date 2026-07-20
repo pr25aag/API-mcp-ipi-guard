@@ -9,5 +9,5 @@ python-multipart>=0.0.9
 anthropic>=0.34
 
 # optional — only needed once GUARD_MODEL_PATH points at a real checkpoint
-# torch>=2.2
-# transformers>=4.41
+torch>=2.2
+transformers>=4.41
